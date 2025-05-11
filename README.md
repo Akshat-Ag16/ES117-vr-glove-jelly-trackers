@@ -6,4 +6,4 @@ You can view the project here:
 👉 [Visit our website here](https://akshit-codes.github.io/virtugrip-crew/)  
 👉 [Check out our presentation](https://www.youtube.com/watch?v=MBY1AiwKADo)
 
-[For any queries feel free to contact us at](virtugripcrew@gmail.com) 
+For any queries feel free to contact us at: virtugripcrew@gmail.com 
